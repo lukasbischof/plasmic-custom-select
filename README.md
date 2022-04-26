@@ -7,5 +7,5 @@
 On Plasmic:
 
 1. Create blank Project
-2. Create new Select component using template
+2. Create new Select component using template: <img width="824" alt="image" src="https://user-images.githubusercontent.com/8350985/165257037-6f62ba47-b209-403b-996f-18ed7a07dd50.png">
 3. Place Select component on page
